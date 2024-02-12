@@ -1,1 +1,1 @@
-# OS_Koya
+# OS Koya
